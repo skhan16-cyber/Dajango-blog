@@ -1,0 +1,87 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\shahmeer\thingy\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3992
+"GET /static/blog/main.css HTTP/1.1" 200 1207
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3381
+"GET /login/ HTTP/1.1" 200 4299
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4254
+"POST /logout/ HTTP/1.1" 200 3145
+"GET /login/ HTTP/1.1" 200 4299
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4254
+C:\Users\shahmeer\thingy\thingy\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\shahmeer\thingy\thingy\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\shahmeer\thingy\thingy\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4254
+"POST /logout/ HTTP/1.1" 200 3145
+"GET /login/ HTTP/1.1" 200 3632
+"POST /login/ HTTP/1.1" 200 3758
+"POST /login/ HTTP/1.1" 200 3758
+C:\Users\shahmeer\thingy\thingy\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3992
+"GET /login/ HTTP/1.1" 200 4299
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4254
+C:\Users\shahmeer\thingy\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\shahmeer\thingy\thingy\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\shahmeer\thingy\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\shahmeer\thingy\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\shahmeer\thingy\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /logout/ HTTP/1.1" 200 3145
+"GET /login/ HTTP/1.1" 200 4299
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4254
+Watching for file changes with StatReloader
+C:\Users\shahmeer\thingy\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\shahmeer\thingy\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3992
+"GET /static/blog/main.css HTTP/1.1" 200 1207
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3381
+"GET /login/ HTTP/1.1" 200 4299
+"GET / HTTP/1.1" 200 3992
+"GET /login/ HTTP/1.1" 200 4299
+"GET / HTTP/1.1" 200 3992
+"GET /login/ HTTP/1.1" 200 4299
+"POST /login/ HTTP/1.1" 200 4486
+"POST /login/ HTTP/1.1" 200 4487
+"POST /login/ HTTP/1.1" 200 4491
+"GET /login/ HTTP/1.1" 200 4561
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3381
+"POST /login/ HTTP/1.1" 200 4752
+"GET / HTTP/1.1" 200 4254
+"POST /logout/ HTTP/1.1" 200 3145
+"GET /login/ HTTP/1.1" 200 4299
+"POST /login/ HTTP/1.1" 200 4490
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4254
+"GET /profile/ HTTP/1.1" 200 3206
+"GET / HTTP/1.1" 200 4254
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3992
+"GET /login/ HTTP/1.1" 200 4299
+"POST /login/ HTTP/1.1" 200 4491
+"GET / HTTP/1.1" 200 4254
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3381
+"POST /logout/ HTTP/1.1" 200 3145
+"GET /login/ HTTP/1.1" 200 4299
+- Broken pipe from ('127.0.0.1', 58849)
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4254
