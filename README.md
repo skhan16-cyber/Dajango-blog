@@ -1,0 +1,2 @@
+# Dajango blog
+Assesment
