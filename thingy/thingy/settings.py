@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'django_otp.plugins.otp_static',
     'django_otp.plugins.otp_totp',
     'two_factor',
+    'django_recaptcha',
 ]
 
 MIDDLEWARE = [
@@ -154,4 +155,5 @@ LOGGING = {
         },
     },
 }
-
+RECAPTCHA_PUBLIC_KEY = '6LdcYJ8sAAAAACLAD_dbLddgPlFlQpDuHVOV6ldT'
+RECAPTCHA_PRIVATE_KEY = '6LdcYJ8sAAAAAEjjfTl3FneTcDIBxtmbl2JbtbXB'

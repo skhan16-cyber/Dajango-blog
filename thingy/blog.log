@@ -357,3 +357,8 @@ Watching for file changes with StatReloader
 "GET /account/two_factor/qrcode/ HTTP/1.1" 200 16406
 "POST /account/two_factor/setup/ HTTP/1.1" 200 4776
 "GET /account/two_factor/qrcode/ HTTP/1.1" 200 16406
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4254
+"POST /logout/ HTTP/1.1" 200 3145
+"GET /register/ HTTP/1.1" 200 6166
