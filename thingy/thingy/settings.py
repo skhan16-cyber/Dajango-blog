@@ -41,6 +41,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django_otp',
+    'django_otp.plugins.otp_static',
+    'django_otp.plugins.otp_totp',
+    'two_factor',
 ]
 
 MIDDLEWARE = [
@@ -51,6 +55,8 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'django.contrib.auth.middleware.AuthenticationMiddleware',
+    'django_otp.middleware.OTPMiddleware',
 ]
 
 ROOT_URLCONF = 'thingy.urls'
@@ -122,8 +128,8 @@ STATIC_URL = 'static/'
 
 CRISPY_TEMPLATE_PACK = "bootstrap4"
 
-LOGIN_REDIRECT_URL = 'blog-home'
-LOGIN_URL = 'login'
+LOGIN_REDIRECT_URL = 'two_factor:profile'
+LOGIN_URL = 'two_factor:login'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
