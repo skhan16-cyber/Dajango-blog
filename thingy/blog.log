@@ -362,3 +362,163 @@ Watching for file changes with StatReloader
 "GET / HTTP/1.1" 200 4254
 "POST /logout/ HTTP/1.1" 200 3145
 "GET /register/ HTTP/1.1" 200 6166
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4553
+"GET / HTTP/1.1" 200 4553
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /static/blog/main.css HTTP/1.1" 200 1207
+"GET /static/blog/main.css HTTP/1.1" 200 1207
+"GET /sw.js HTTP/1.1" 200 5747
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 7182
+"GET / HTTP/1.1" 200 4553
+"GET /offline/ HTTP/1.1" 200 3675
+"GET /static/js/main.js HTTP/1.1" 404 1844
+"GET / HTTP/1.1" 200 4553
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /static/css/main.css HTTP/1.1" 404 1850
+"GET / HTTP/1.1" 200 4553
+- Broken pipe from ('127.0.0.1', 49743)
+"GET / HTTP/1.1" 200 4553
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /offline/ HTTP/1.1" 200 3675
+"GET /static/css/main.css HTTP/1.1" 404 1850
+"GET / HTTP/1.1" 200 4553
+- Broken pipe from ('127.0.0.1', 49745)
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /static/css/main.css HTTP/1.1" 404 1850
+- Broken pipe from ('127.0.0.1', 49746)
+- Broken pipe from ('127.0.0.1', 49747)
+"GET / HTTP/1.1" 200 4553
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /offline/ HTTP/1.1" 200 3675
+"GET /static/css/main.css HTTP/1.1" 404 1850
+- Broken pipe from ('127.0.0.1', 49750)
+"GET / HTTP/1.1" 200 4553
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /static/css/main.css HTTP/1.1" 404 1850
+"GET / HTTP/1.1" 200 4553
+- Broken pipe from ('127.0.0.1', 49752)
+"GET / HTTP/1.1" 200 4553
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /offline/ HTTP/1.1" 200 3675
+"GET /static/css/main.css HTTP/1.1" 404 1850
+- Broken pipe from ('127.0.0.1', 49754)
+"GET / HTTP/1.1" 200 4553
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /offline/ HTTP/1.1" 200 3675
+"GET / HTTP/1.1" 200 4553
+"GET /static/js/main.js HTTP/1.1" 404 1844
+"GET /static/css/main.css HTTP/1.1" 404 1850
+"GET / HTTP/1.1" 200 4553
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /static/css/main.css HTTP/1.1" 404 1850
+"GET / HTTP/1.1" 200 4553
+"GET /offline/ HTTP/1.1" 200 3675
+"GET / HTTP/1.1" 200 4553
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /offline/ HTTP/1.1" 200 3675
+"GET /static/css/main.css HTTP/1.1" 404 1850
+- Broken pipe from ('127.0.0.1', 49760)
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4553
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /static/css/main.css HTTP/1.1" 404 1850
+"GET / HTTP/1.1" 200 4553
+"GET /offline/ HTTP/1.1" 200 3675
+"GET / HTTP/1.1" 200 4553
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /offline/ HTTP/1.1" 200 3675
+"GET /static/css/main.css HTTP/1.1" 404 1850
+- Broken pipe from ('127.0.0.1', 49765)
+"GET /post/3/ HTTP/1.1" 200 3774
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /offline/ HTTP/1.1" 200 3675
+"GET /static/css/main.css HTTP/1.1" 404 1850
+- Broken pipe from ('127.0.0.1', 49766)
+"GET / HTTP/1.1" 200 4553
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /offline/ HTTP/1.1" 200 3675
+"GET /static/css/main.css HTTP/1.1" 404 1850
+- Broken pipe from ('127.0.0.1', 49769)
+"GET /post/2/ HTTP/1.1" 200 3793
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /offline/ HTTP/1.1" 200 3675
+"GET /static/css/main.css HTTP/1.1" 404 1850
+- Broken pipe from ('127.0.0.1', 49773)
+"GET / HTTP/1.1" 200 4553
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /offline/ HTTP/1.1" 200 3675
+"GET /static/css/main.css HTTP/1.1" 404 1850
+"GET /static/js/main.js HTTP/1.1" 404 1844
+"GET / HTTP/1.1" 200 4553
+"GET /post/1/ HTTP/1.1" 200 3778
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /offline/ HTTP/1.1" 200 3675
+"GET /static/css/main.css HTTP/1.1" 404 1850
+- Broken pipe from ('127.0.0.1', 49776)
+"GET / HTTP/1.1" 200 4553
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /static/css/main.css HTTP/1.1" 404 1850
+"GET /offline/ HTTP/1.1" 200 3675
+- Broken pipe from ('127.0.0.1', 49782)
+"GET / HTTP/1.1" 200 4553
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /static/css/main.css HTTP/1.1" 404 1850
+"GET / HTTP/1.1" 200 4553
+- Broken pipe from ('127.0.0.1', 49864)
+"GET /post/3/ HTTP/1.1" 200 3774
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET / HTTP/1.1" 200 4553
+"GET /offline/ HTTP/1.1" 200 3675
+"GET /static/js/main.js HTTP/1.1" 404 1844
+"GET / HTTP/1.1" 200 4553
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /static/css/main.css HTTP/1.1" 404 1850
+"GET / HTTP/1.1" 200 4553
+- Broken pipe from ('127.0.0.1', 49884)
+"GET /post/2/ HTTP/1.1" 200 3793
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET / HTTP/1.1" 200 4553
+"GET /offline/ HTTP/1.1" 200 3675
+"GET /static/js/main.js HTTP/1.1" 404 1844
+"GET /static/css/main.css HTTP/1.1" 404 1850
+"GET / HTTP/1.1" 200 4553
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /offline/ HTTP/1.1" 200 3675
+"GET /static/css/main.css HTTP/1.1" 404 1850
+- Broken pipe from ('127.0.0.1', 49914)
+"GET /post/1/ HTTP/1.1" 200 3778
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /offline/ HTTP/1.1" 200 3675
+"GET / HTTP/1.1" 200 4553
+"GET /static/js/main.js HTTP/1.1" 404 1844
+"GET / HTTP/1.1" 200 4553
+"GET /manifest.json HTTP/1.1" 200 163
+"GET /sw.js HTTP/1.1" 200 5747
+"GET /static/css/main.css HTTP/1.1" 404 1850
+- Broken pipe from ('127.0.0.1', 49934)
+- Broken pipe from ('127.0.0.1', 49925)
